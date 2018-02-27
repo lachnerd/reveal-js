@@ -1,0 +1,21 @@
+/* fixes Logo rechts oben */
+.reveal .header {
+	//background-image: url(../media/IS2-Logo-2010-RGB-standard-ohne-weissraum.png);
+	width: 126px;
+	height: 42px;
+	content: url(../media/IS2-Logo-2010-RGB-standard-ohne-weissraum.png);
+	position: fixed;
+	top: 1em;
+	right: 1em;
+	box-shadow: none;
+	display: none;
+}
+
+/*********************************************
+ * TAGCLOUD more space
+ *********************************************/
+span.clouditem {
+  padding-left: 0.15em;
+  padding-right: 0.15em;
+  line-height: 90%;
+}
