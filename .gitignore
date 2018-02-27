@@ -19,3 +19,4 @@ css/reveal.css
 css/theme/*.css
 npm-debug.log
 /nbproject/private/
+target/reveal-js-presentation-*.zip
