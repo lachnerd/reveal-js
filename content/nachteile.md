@@ -1,13 +1,13 @@
-## Github project
+## <i class="fa fa-minus-circle" aria-hidden="true"></i> Nachteile
 <div style="text-align: left; float: left; width: 70%">
-- Nicht alles ist immer mit allem kombinierbar<!-- .element: class="fragment" -->
-- Open Source<!-- .element: class="fragment" -->
-- Current Version 3.6.0 (Nov 2017)<!-- .element: class="fragment" -->
-- 1.0 Juli 2013<!-- .element: class="fragment" -->
+- Viele Möglichkeiten - viele Fehlerquellen<!-- .element: class="fragment" -->
+- Übliche HTML Probleme<!-- .element: class="fragment" -->
+- Extra Probleme mit externem Markdown
+- Eingeschränkte Freiheiten<!-- .element: class="fragment" -->
+- anfangs zeitintensiver
 </div>
 <div style="text-align: right; float: right;  width: 30%">
-    <img width="500px" src="/media/github-revealjs.png " style="border: none;" />
+    <img width="500px" src="/media/github-revealjs.png" style="border: none;" />
 </div>
 Note:
-- MIT License
-- stetige Weiterentwicklung
+- Viele Möglichkeiten - nicht jedes Feature kombinierbar HTML eben
