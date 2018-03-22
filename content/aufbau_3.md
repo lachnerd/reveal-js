@@ -1,4 +1,4 @@
-## <i class="far fa-keyboard"></i> Aufbau - Plugins
+## <i class="fa fa-cubes" aria-hidden="true"></i> Aufbau - Plugins
 
 ```html
 <script>

@@ -1,4 +1,4 @@
-## <i class="fa fa-copyright" aria-hidden="true"></i> REVEAL.JS
+## <i class="fa fa-info-circle" aria-hidden="true"></i> Reveal.js
 <div style="text-align: left; float: left; width: 70%">
 - HTML Presentation Framework<!-- .element: class="fragment" -->
 - Hakim El Hattab<!-- .element: class="fragment" -->

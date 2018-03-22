@@ -1,4 +1,4 @@
-## <i class="fa fa-minus-circle" aria-hidden="true"></i> Struktur
+## <i class="fa fa-folder-open-o" aria-hidden="true"></i> Struktur
 
 <div style="text-align: left; float: left; width: 70%">
 - content<!-- .element: class="fragment" -->
