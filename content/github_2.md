@@ -1,4 +1,4 @@
-## Github project
+## <i class="fa fa-github" aria-hidden="true"></i> Github project
 <div style="text-align: left; float: left; width: 70%">
 - https://github.com/hakimel/reveal.js<!-- .element: class="fragment" -->
 - Open Source<!-- .element: class="fragment" -->

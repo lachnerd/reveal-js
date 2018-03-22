@@ -1,4 +1,4 @@
-## Slides
+## <i class="fa fa-files-o" aria-hidden="true"></i> Slides
 
 <div style="text-align: right; float: right;  width: 70%"><!-- .element: class="fragment shrink" -->
     <img width="500px" src="/media/slides.png " style="border: none;" />

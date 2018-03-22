@@ -1,4 +1,4 @@
-##  Code Highlighting
+##  Allgemeines
   ```js
   <pre><code data-trim data-noescape class="js">
   function handleClick(e) {
