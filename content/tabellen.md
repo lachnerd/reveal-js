@@ -1,5 +1,5 @@
 
-<h2>Tabellen</h2>
+<h2><i class="fa fa-code" aria-hidden="true"></i> Tabellen</h2>
 					<table>
 						<thead>
 							<tr>

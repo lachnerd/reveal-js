@@ -1,19 +1,21 @@
-## <i class="fa fa-cubes" aria-hidden="true"></i> Aufbau - Plugins
-
+## <i class="fa fa-cubes" aria-hidden="true"></i> Aufbau
 ```html
-<script>
-	// More info about config & dependencies:
-	// - https://github.com/hakimel/reveal.js#configuration
-	// - https://github.com/hakimel/reveal.js#dependencies
-	Reveal.initialize({
-		dependencies: [
-			{ src: 'plugin/markdown/marked.js' },
-			{ src: 'plugin/markdown/markdown.js' },
-			{ src: 'plugin/notes/notes.js', async: true },
-			{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-		]
-	});
-</script>
+<div class="slides">
+    <section data-markdown>
+        <script type="text/template">
+            ## Page title
+
+            A paragraph with some text and a [link](http://hakim.se).
+        </script>
+        <aside class="notes" data-markdown>
+            - talk about page titles
+            - anecdote about paragraphs
+        </aside>
+    </section>
+</div>
 ```
+<!-- .element: class="fragment" -->
+
 Note:
--  
+-  markdown
+- <aside class="notes">

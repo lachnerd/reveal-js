@@ -6,4 +6,5 @@
 6. Plugins
 6. Vor- und Nachteile
 Note:
-- Todo
+- vorbereitung
+- keine Ahnung Zeit

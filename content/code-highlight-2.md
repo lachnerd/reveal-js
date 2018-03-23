@@ -1,4 +1,4 @@
-##  Allgemeines
+## <i class="fa fa-code" aria-hidden="true"></i> Code Highlighting
   ```js
   <pre><code data-trim data-noescape class="js">
   function handleClick(e) {
