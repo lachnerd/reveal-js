@@ -3,7 +3,7 @@
 2. Wie funktionierts
 3. Project - Setup
 4. Features
-6. Plugins
+5. Plugins
 6. Vor- und Nachteile
 Note:
 - vorbereitung

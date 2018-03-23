@@ -2,7 +2,7 @@
 * <!-- .element: class="fragment" -->Javascript API
 * <!-- .element: class="fragment" -->State Events
 * <!-- .element: class="fragment" -->global States
-* <!-- .element: class="fragment" -->Prallax Hintergründe
+* <!-- .element: class="fragment" -->Parallax Hintergründe
 * <!-- .element: class="fragment" -->Background Transitions
 Note:
 - Todo
