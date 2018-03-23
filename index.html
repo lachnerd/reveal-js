@@ -211,35 +211,31 @@
                          data-separator-vertical="^\n\n"
                          data-charset="UTF-8">
                   </section>
-                  <section data-markdown="/content/plugin-diagramm.md"
+                  <section data-markdown="/content/plugin-divers.md"
                          data-separator="^\n\n\n"
                          data-separator-vertical="^\n\n"
                          data-charset="UTF-8">
                   </section>
-                  <section data-markdown="/content/plugin-tagcloud.md"
-                         data-separator="^\n\n\n"
-                         data-separator-vertical="^\n\n"
-                         data-charset="UTF-8">
-                  </section>
-                  <section data-markdown="/content/plugin-footer.md"
-                         data-separator="^\n\n\n"
-                         data-separator-vertical="^\n\n"
-                         data-charset="UTF-8">
-                  </section>
-                  <section data-markdown="/content/plugin-progress.md"
-                         data-separator="^\n\n\n"
-                         data-separator-vertical="^\n\n"
-                         data-charset="UTF-8">
-                  </section>
-                <section>
+                </section>
                 <!-- Vor und Nachteile -->
                 <section>
+                  <section data-markdown="/content/fazit.md"
+                         data-separator="^\n\n\n"
+                         data-separator-vertical="^\n\n"
+                         data-charset="UTF-8">
+                  </section>
                   <section data-markdown="/content/nachteile.md"
                          data-separator="^\n\n\n"
                          data-separator-vertical="^\n\n"
                          data-charset="UTF-8">
                   </section>
+
                   <section data-markdown="/content/vorteile.md"
+                         data-separator="^\n\n\n"
+                         data-separator-vertical="^\n\n"
+                         data-charset="UTF-8">
+                  </section>
+                  <section data-markdown="/content/like.md"
                          data-separator="^\n\n\n"
                          data-separator-vertical="^\n\n"
                          data-charset="UTF-8">
@@ -255,7 +251,7 @@
             // More info https://github.com/hakimel/reveal.js#configuration
             Reveal.initialize({
                 history: true,
-
+                mouseWheel: true,
 
                 // More info https://github.com/hakimel/reveal.js#dependencies
                 dependencies: [
@@ -263,7 +259,6 @@
                     {src: 'plugin/markdown/markdown.js'},
                     {src: 'plugin/notes/notes.js', async: true},
                     {src: 'plugin/chalkboard/chalkboard.js' },
-                    {src: 'plugin/tagcloud/tagcloud.js', async: true},
                     {src: 'bower_components/reveal.js-ace/ace.js' },
                     {src: 'plugin/highlight/highlight.js', async: true, callback: function () {
                             hljs.initHighlightingOnLoad();
@@ -336,14 +331,10 @@
             });
 
         // enable mous click navigation
-        window.addEventListener("mousedown", handleClick, false);
+        //window.addEventListener("mousedown", handleClick, false);
         window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
 
-        function handleClick(e) {
-          e.preventDefault();
-          if(e.button === 0) Reveal.next();
-          if(e.button === 2) Reveal.prev();
-        }
+
         </script>
     </body>
 </html>
